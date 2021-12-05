@@ -1,7 +1,5 @@
 ### Hi, I am Narmin 👩🏻‍💻 Thanks for visiting my account.
 
-<!--
-**NarminSH/NarminSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here's brief information about me :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
