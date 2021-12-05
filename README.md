@@ -3,7 +3,7 @@
 I mainly have experience Python, Django and Go. I love learning new things and currently learn Java. 
 
 
-I mostly work with below stack :
+I mostly work with   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 	
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -12,5 +12,6 @@ I mostly work with below stack :
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarminSH&layout=compact)](https://github.com/NarminSH/github-readme-stats)
+![NarminSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarminSH&show_icons=true&theme=radical)
+
 
