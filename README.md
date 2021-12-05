@@ -18,7 +18,7 @@ I mainly have experience with Python, Django, Javascript and Go. I am passionate
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-Get in touch with me 📥
+📥 Get in touch with me
 ------------------
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/narmin-shivakhanova-3a1770164)
 &nbsp;
